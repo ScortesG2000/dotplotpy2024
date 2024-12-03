@@ -2,7 +2,7 @@
 
 ## Análisis de Rendimiento de Dotplot
 
-## Secuencial vs Paralelización
+## Secuencial y Paralelización
 
 Este proyecto busca poner en práctica y evaluar la eficacia de tres métodos distintos para crear y analizar dotplots, una herramienta habitual en el ámbito de la bioinformática para contrastar secuencias de ADN o proteínas.
 
